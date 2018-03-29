@@ -1,0 +1,10 @@
+table, td {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+.react-bootstrap-tooltip {
+    border: 1px solid black;
+    background-color: pink;
+}
