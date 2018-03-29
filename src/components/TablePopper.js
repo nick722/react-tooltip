@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 
+/**
+ * https://github.com/souporserious/react-popper
+ */
+
 export default class TablePopper extends Component {
 
 
